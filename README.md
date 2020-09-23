@@ -12,6 +12,6 @@ This code can be run using Google Colab
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
